@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body{margin:0; padding: 0; font-family:'Nanum Gothic'}
+li{list-style-type: square;}
+
+.container{width:1000px;margin:auto;}
+.clear{clear:both;}
+header {width:1000px;height: 100px;}
+header img{float: left; width:200px; height: 56px; margin-top: 27px;}
+header #top ul li{float:left; display: inline; margin:10px 20px; font-size:10px;}
+header nav ul li{float:left; list-style-type: none; margin:0 20px;}
+a{text-decoration: none; color:black;}
+a:hover{color:blue;}
+img{width: 710px; height:auto;float:left;}
+
+.right {float:right;}
+.mcontainer{width:275px; height: 222px; border:1px solid lightgrey; margin-top: 12px;}
+.mtitle{font-size: 15px; margin-bottom:0; color: blue; font-weight: bold;}
+.msub{font-size: 12px; color:lightgrey;}
+.mcontent{font-size: 12px;}
+.m{float:left; margin-top: 20px; margin-left: 30px;}
+.plus{width:38px; float:right; display:absolute; margin-top:15px; margin-right:20px;}
+
+#m1 {float:right; width: 275px; height: 194px; border:1px solid lightgrey; padding-bottom: 0; }
+#m1 ul{padding: 0;}
+#m1 ul li {list-style-type: square;}
+#m2 {margin-top:11px; width:275px; border:1px solid lightgrey;}
+td{padding:0;}
+table, tr, td{ border-collapse: collapse; padding: 0;}
+table tr{width:275px; height: auto;}
+table tr td img{width:137.5px; margin: 0;}
+
+#card{border:1px solid blue; background-color: blue; color:white;}
+
+.m3 { width: 710px; height: 222px; margin-top: 12px; float:left;  border:1px solid lightgrey;}
+
+#m3_1 {width: 310px; height: auto; display:inline;}
+#ad{width:310px; height: 110px; margin-bottom: 10px; margin-top: 10px;}
+#m3_2 {width: 310px; height: auto; float:left;}
+#m4_1{background-image: url(https://www.paynuri.com/images/mbox_img_pgsvc.gif);}
+#m5{float:left;}
+#m5, #m5_1, #m5_2{height: 222px; border:1px solid lightgrey; margin-top: 12px; }
+
+.button{width: 145px; height: 26px; margin-top: 10px;background-color: lightgrey; border:1px solid grey;}
+
+footer{margin-top: 24px; background-color: whitesmoke; border:1px solid lightgrey; width: 100%; clear:both; font-size:12px; padding-bottom: 30px; position:relative;}
+footer div img{height: 46px; width:auto; float:right;}
+#logo2{width: 132px; float: left; margin-right:15px;}
